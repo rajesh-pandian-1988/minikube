@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "d:\\training\\repos\\minikube\\UserApi\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "d:\\training\\repos\\minikube\\UserApi\\UserApi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "UserApi",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
